@@ -1,0 +1,4 @@
+curl -XPOST -H "Content-type: application/json" -d '{ "query": " { studentdetails(content: 1) { Fullname, universitydetails { Name_of_Last_Tertiary_Institute } } }" }' 'http://localhost:1677/graphql'
+
+bal dist use slp8
+bal dist use 1.2.10

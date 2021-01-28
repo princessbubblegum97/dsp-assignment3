@@ -1,0 +1,16 @@
+kubernates deployment:
+
+
+//https://ballerina.io/learn/deployment/kubernetes/#table-of-content
+//https://ballerina.io/learn/by-example/kubernetes-deployment.html
+//https://ballerina.io/learn/deployment/kubernetes/
+
+
+Keystore file derived from:
+//https://github.com/ballerina-platform/ballerina-lang/blob/ballerina-1.2.x/examples/resources/ballerinaKeystore.p12
+//https://github.com/ballerina-platform/ballerina-lang/tree/ballerina-1.2.x/examples/resources/
+//https://raw.githubusercontent.com
+
+
+API Gateway:
+//https://ballerina.io/swan-lake/learn/by-example/graphql-resources-with-record-values.html
